@@ -45,6 +45,34 @@ Determinar la viabilidad técnica, económica, social y comercial de implementar
 
 ---
 
+## 🏗️ Estructura del Proyecto
+
+```text
+proyecto-pet-rpet/
+│
+├── README.md                # Descripción general del proyecto
+├── docs/                    # 📄 Documento principal y resúmenes
+│   ├── proyecto.pdf         # TIF Concluido - Grupo 04
+│   ├── resumen.md           # Resumen ejecutivo
+│   └── presentacion.pptx    # Presentación final
+│
+├── engineering/             # ⚙️ Ingeniería del proyecto
+│   ├── procesos.md          # Descripción del flujo de producción
+│   └── maquinaria.md        # Especificaciones técnicas de equipos
+│
+├── financials/              # 💰 Evaluación económica
+│   ├── costos.md            # CAPEX y OPEX
+│   └── indicadores.md       # VAN, TIR y Periodo de Recupero
+│
+├── market/                  # 📊 Estudio de mercado
+│   ├── analisis.md          # Análisis de la demanda y competencia
+│   └── segmentacion.md      # Público objetivo y posicionamiento
+│
+└── research/                # 🔍 Investigación y referencias
+```
+
+---
+
 ## 🏭 Proceso Productivo
 
 El proceso de producción incluye:
@@ -72,34 +100,6 @@ El proceso de producción incluye:
 
 ---
 
-## 🧠 Análisis de Mercado
-
-- 🎯 Público objetivo: 18–39 años (NSE A, B y C)
-- 👟 Producto: calzado deportivo ecológico
-- 📈 Crecimiento proyectado: 12% anual
-- 🌐 Canales: redes sociales + tiendas físicas
-
----
-
-## 🚀 Impacto del Proyecto
-
-### 💰 Económico
-- Generación de empleo directo e indirecto
-- Reducción de importaciones
-
-### 🌍 Ambiental
-- Disminución de residuos PET
-- Reducción de contaminación
-
-### 👥 Social
-- Inclusión de recicladores
-- Promoción del consumo responsable
-
-### ⚙️ Tecnológico
-- Implementación de procesos industriales sostenibles
-
----
-
 ## 📍 Localización
 
 📌 **Parque Industrial Río Seco – Cerro Colorado, Arequipa**
@@ -108,29 +108,6 @@ El proceso de producción incluye:
 - Cercanía a centros de acopio
 - Infraestructura industrial disponible
 - Acceso logístico eficiente
-
----
-
-## 📈 Viabilidad
-
-El proyecto es:
-
-- ✅ Técnicamente viable  
-- ✅ Económicamente rentable  
-- ✅ Ambientalmente sostenible  
-- ✅ Socialmente beneficioso  
-
----
-
-## 📚 Contenido del Estudio
-
-El documento incluye:
-
-- Estudio de mercado  
-- Ingeniería del proyecto  
-- Análisis organizacional y legal  
-- Evaluación económica y financiera  
-- Análisis de impacto ambiental  
 
 ---
 
@@ -150,12 +127,6 @@ El documento incluye:
 
 Universidad Nacional de San Agustín de Arequipa  
 Escuela Profesional de Ingeniería Industrial  
-
----
-
-## 📄 Licencia
-
-Proyecto académico de libre uso con fines educativos.
 
 ---
 
